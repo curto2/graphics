@@ -155,12 +155,12 @@ for z in range(0, m_epochs):
         start_batch = batch_size * tt
         end_batch = batch_size * (tt + 1)
         train_step.run(feed_dict={x: train_x[start_batch:end_batch], y_: train_y[start_batch:end_batch]})
-        ex_seen = "Current epoch, examples seen: {:20} / {} \r".format(tt * batch_size, len(train_x))
-        sys.stdout.write(ex_seen.format(tt * batch_size))
+        seen = "Current epoch, examples seen: {:20} / {} \r".format(tt * batch_size, len(train_x))
+        sys.stdout.write(seen.format(tt * batch_size))
         sys.stdout.flush()
 
-    ex_seen = "Current epoch, examples seen: {:20} / {} \r".format((tt + 1) * batch_size, len(train_x))
-    sys.stdout.write(ex_seen.format(tt * batch_size))
+    seen = "Current epoch, examples seen: {:20} / {} \r".format((tt + 1) * batch_size, len(train_x))
+    sys.stdout.write(seen.format(tt * batch_size))
     sys.stdout.flush()
 
     t_loss = loss.eval(feed_dict={x: train_x, y_: train_y})
