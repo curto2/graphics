@@ -3,6 +3,7 @@
 High-Resolution Deep Convolutional Generative Adversarial Networks
 
 <p align="center">
+<img src="hdcgan.png" width="800">
 <img src="HDCGAN_table.png" width="400">
 <img src="frechet.png" width="400">
 </p>
