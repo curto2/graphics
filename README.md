@@ -18,7 +18,7 @@ For more information visit the website:
 
 If you use Graphics in a publication, please cite the paper below:
 
-Curtó, J. D. and Zarza, I. C.
+Curtó, J. D. and Zarza, H. C.
 High-Resolution Deep Convolutional Generative Adversarial Networks. 2019.
 
 --------------------------------------------------------
