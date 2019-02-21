@@ -18,8 +18,12 @@ For more information visit the website:
 
 If you use Graphics in a publication, please cite the paper below:
 
-Curtó, J. D. and Zarza, H. C.
-High-Resolution Deep Convolutional Generative Adversarial Networks. 2019.
+        @article{Curto19_2,
+          author = "J. D. Curt\'o and H. C. Zarza",
+          title = "High-Resolution Deep Convolutional Generative Adversarial Networks",
+          journal = "arXiv:1711.06491",
+          year = "2019",
+        }
 
 --------------------------------------------------------
 Change Log
