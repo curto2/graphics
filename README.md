@@ -14,7 +14,7 @@ High-Resolution Deep Convolutional Generative Adversarial Networks
 
 For more information visit the website:
 
-  http://www.curto.hk/publication/hdcgan/
+  http://curto.hk/publication/hdcgan/
 
 If you use Graphics in a publication, please cite the paper below:
 
