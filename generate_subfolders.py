@@ -1,5 +1,5 @@
 # Curtó and Zarza
-# {curto,zarza}@estudiants.urv.cat
+# {curto,zarza}.2@my.cityu.edu.hk
 
 # Script to generate subfolder structure to read in Tensorflow
 # Put graphics into the folder /graphics/samples/
@@ -8,7 +8,7 @@ import os
 import numpy as np
 import shutil
 
-dataset = ps.read_csv('labels/cz.csv') # Load dataset
+dataset = ps.read_csv('labels/c&z.csv') # Load dataset
 file_names = list(dataset['Filename'].values)
 # Choose label to load from:
 # {Age, Ethnicity, Eyes Color, Facial Hair, Gender, Glasses, Hair Color, Hair Covered, Hair Style, Smile, Visible Forehead}

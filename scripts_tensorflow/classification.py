@@ -1,7 +1,7 @@
 
 # Original python notebook from Fridman <fridman@mit.edu>
 # Slightly modified by Curtó and Zarza
-# {curto,zarza}@estudiants.urv.cat
+# {curto,zarza}.2@my.cityu.edu.hk
 
 #!/usr/bin/python2
 
@@ -26,7 +26,7 @@ sample_x = 32
 sample_y = 32
 train_test_split_ratio = 0.9
 batch_size = 32
-checkpoint_name = "output/cz.ckpt"
+checkpoint_name = "output/c-and-z.ckpt"
 
 # Helper layer functions
 
