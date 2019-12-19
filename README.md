@@ -10,7 +10,7 @@ High-resolution Deep Convolutional Generative Adversarial Networks
 
 <a href="https://drive.google.com/file/d/1KM_aBTICkLqKUhV8sDhaGShtzP8EJCIY/view?usp=sharing">Link to Graphics</a>
 
-<a href="http://naver.me/xgYrbq02">Alternate Link to Graphics</a>
+<a href="http://naver.me/x7zZbewW">Alternate Link to Graphics</a>
 
 For more information visit the website:
 
