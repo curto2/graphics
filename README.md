@@ -1,6 +1,6 @@
 # Graphics
 
-High-resolution Deep Convolutional Generative Adversarial Networks
+High-resolution Deep Convolutional Generative Adversarial Networks.
 
 <p align="center">
 <img src="hdcgan.png" width="800">
@@ -18,18 +18,18 @@ For more information visit the website:
 
 If you use Graphics in a publication, please cite the paper below:
 
-        @article{Curto19_2,
-          author = "J. D. Curt\'o and H. C. Zarza and T. Kim",
+        @article{Curto17_2,
+          author = "J. D. Curt\'o and I. C. Zarza and F. Torre and I. King and M. R. Lyu",
           title = "High-resolution Deep Convolutional Generative Adversarial Networks",
-          journal = "arXiv:1711.06491",
-          year = "2019",
+          journal = "arXiv:1711.06491v13",
+          year = "2017",
         }
 
 --------------------------------------------------------
 Change Log
 --------------------------------------------------------
 
-Version 1.0, released on 24/01/2019
+Version 1.0, released on 24/01/2019.
 
 --------------------------------------------------------
 File Information
