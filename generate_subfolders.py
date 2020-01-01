@@ -2,7 +2,7 @@
 # c@decurto.ch z@dezarza.ch
 
 # Script to generate subfolder structure to read in Tensorflow
-# Put graphics into the folder /graphics/samples/
+# Put Curtó & Zarza into the folder /graphics/samples/
 import pandas as ps
 import os
 import numpy as np
