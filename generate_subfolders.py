@@ -29,4 +29,4 @@ for z in range(len(file_names)):
   current_img = file_names[z]
   current_label = img_labels[z]
 
-  destination_image = shutil.move(source+'/graphics/samples/'+current_img,source+'/'+current_label)
+  destination_image = shutil.move(source+'/samples/'+current_img,source+'/'+current_label)
