@@ -17,7 +17,7 @@ High-resolution Deep Convolutional Generative Adversarial Networks.
 
 For more information visit the website:
 
-  http://www.decurto.ch/
+  http://decurto.ch/
 
 If you use Curtó & Zarza in a publication, please cite the paper below:
 
