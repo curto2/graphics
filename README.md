@@ -43,7 +43,7 @@ File Information
 - Labels (labels/c&z.csv and labels/c&z.p).
   - CSV file with attribute information: Filename, Age, Ethnicity, Eyes Color, Facial Hair, Gender, Glasses, Hair Color, Hair Covered, Hair Style, Smile and Visible Forehead.
 We also include format Pickle to load in Python.
-- Code (scripts_tensorflow/classification.py and generate_subfolders.py).
+- Code (script_tensorflow/classification.py and generate_subfolders.py).
   - Script to do classification using Tensorflow.
   - Script to generate adequate subfolder of specific attribute. Useful to load into frameworks of Machine Learning.
 - HDCGAN Synthetic Images (graphics/hdcgan/).
