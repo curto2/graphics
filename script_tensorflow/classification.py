@@ -1,7 +1,7 @@
 
 # Original python notebook from Fridman <fridman@mit.edu>.
 # Slightly modified by Curtó and Zarza.
-# c@decurto.ch z@dezarza.ch
+# c@decurto.tw z@dezarza.tw
 
 #!/usr/bin/python2
 

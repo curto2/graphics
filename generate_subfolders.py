@@ -1,5 +1,5 @@
 # Curtó and Zarza.
-# c@decurto.ch z@dezarza.ch
+# c@decurto.tw z@dezarza.tw
 
 # Script to generate subfolder structure to read in Tensorflow
 # Put Curtó & Zarza into the folder /graphics/samples/
