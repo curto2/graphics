@@ -8,7 +8,7 @@ High-resolution Deep Convolutional Generative Adversarial Networks.
 <img src="frechet.png" width="400">
 </p>
 
-<a href="https://drive.google.com/file/d/1KM_aBTICkLqKUhV8sDhaGShtzP8EJCIY/view?usp=sharing">Link to Curtó & Zarza.</a>
+<a href="https://drive.google.com/file/d/1XqD0BQdyIwh2YYNfUm8c-hYb_xwgz7jx/view?usp=sharing">Link to Curtó & Zarza.</a>
 <a href="https://share.weiyun.com/5OflkxB"><strong>Preview.</strong></a>
 
 <a href="https://share.weiyun.com/5L7sP3a">Alternate Link 1 to Curtó & Zarza.</a>
