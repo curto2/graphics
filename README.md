@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/high-resolution-deep-convolutional-generative/image-generation-on-celeba-hq-128x128)](https://paperswithcode.com/sota/image-generation-on-celeba-hq-128x128?p=high-resolution-deep-convolutional-generative)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/high-resolution-deep-convolutional-generative/image-generation-on-celeba-hq-64x64)](https://paperswithcode.com/sota/image-generation-on-celeba-hq-64x64?p=high-resolution-deep-convolutional-generative)
+
 # Graphics
 
 High-resolution Deep Convolutional Generative Adversarial Networks.
