@@ -11,8 +11,7 @@ High-resolution Deep Convolutional Generative Adversarial Networks.
 <img src="frechet.png" width="400">
 </p>
 
-News: Since its first appearance in 2018, this work has attracted worldwide attention as one of the first techniques to generate AI artwork. The pieces have been showed in major NFT showcases with public applaud and following. <a href="https://oncyber.io/decurto"><strong>Visit a VR display</strong></a>. 
-
+**News:** Since its first appearance in 2017, this work has attracted worldwide attention as one of the first techniques to generate AI artwork. The pieces have been showed in major NFT showcases with public applaud and following. <a href="https://oncyber.io/decurto"><strong>Visit a VR display</strong></a>.
 
 <a href="https://drive.google.com/file/d/1XqD0BQdyIwh2YYNfUm8c-hYb_xwgz7jx/view?usp=sharing">Link to Curtó & Zarza.</a>
 <a href="https://share.weiyun.com/5OflkxB"><strong>Preview.</strong></a>
